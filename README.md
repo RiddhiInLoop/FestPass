@@ -79,9 +79,4 @@ pip install -r requirements.txt
   python bulk_generate.py data.csv --email
   ```
 
-## 🧪 Testing
-The backend is fully covered by pytest. Run unit tests using:
-```bash
-pytest test_backend.py
-```
-Developed for internal technical events and college fests. 
+
