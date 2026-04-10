@@ -1,0 +1,10 @@
+Pillow
+qrcode
+python-barcode
+reportlab
+opencv-python
+mysql-connector-python
+python-dotenv
+pyzbar
+pytest
+matplotlib
