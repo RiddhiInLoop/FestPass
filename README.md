@@ -1,6 +1,6 @@
 # FestPass Studio
 
-FestPass Studio is an advanced deskop application designed for generating, validating, and managing digital entry passes for various events, seminars, and hackathons. It seamlessly creates beautifully designed tickets complete with QR codes and Code128 Barcodes, and sends them directly via email. It also comes with an integrated OpenCV and PyZbar based entry gate scanner for ticket validation.
+FestPass Studio is an advanced destkop application designed for generating, validating, and managing digital entry passes for various events, seminars, and hackathons. It seamlessly creates beautifully designed tickets complete with QR codes and Code128 Barcodes, and sends them directly via email. It also comes with an integrated OpenCV and PyZbar based entry gate scanner for ticket validation.
 
 ## ✨ Features
 - **Smart Pass Generation:** Auto-generates styled tickets with QR codes and barcodes.
@@ -84,6 +84,4 @@ The backend is fully covered by pytest. Run unit tests using:
 ```bash
 pytest test_backend.py
 ```
-
-## 👥 Contributors
 Developed for internal technical events and college fests. 
